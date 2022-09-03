@@ -1,2 +1,2 @@
 #!/bin/bash
-mirrior
+chmod --reference-olleh hello
